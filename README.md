@@ -8,7 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizar-loutra-0845a31b2/)
 
 # 💻 Tech Stack:
-🛠️ My favorite tools 
+
+🛠️ MY FARVOIRE TOOLS
 
 👨‍💻 Programming languages :
 
