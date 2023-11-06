@@ -1,6 +1,5 @@
 # 👨🏽‍💻 About Me:
-👨‍🎓 I'm a Junior Software Engineering Student<br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning :<br><br>° Data Structures and Algorithms on LeetCode<br><br>📬 How to reach me : nizarloutra@gmail.com<br>💪 This is where I write, code and solve problems :<br>
-
+👨‍🎓 I'm a Junior Software Engineering Student<br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning :<br><br>° Data Structures and Algorithms on LeetCode<br><br>📬 How to reach me : nizarloutra@gmail.com<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nizar.loutra)
